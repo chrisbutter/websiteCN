@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+*h1 {
+    font-size: large;
+    font-family: 'Nunito', sans-serif;
+}
+
+
+* body {
+    background-color: black;
+        color: white;
+    }
+    h1 {
+        color:rgb(252, 0, 0);
+        font-size: x-large;
+        font-family: 'Nunito', sans-serif;
+    }
+    h2 {
+        color: blue;
+        font-size: large;
+        font-family:'Nunito', sans-serif; ;
+    }
+* {
+    box-sizing: border-box;
+    padding: 50px;
+}
+p {
+    font-size: medium;
+    font-family: 'Nunito', sans-serif;
+}
+   img {
+       width: 1700px;
+       height: 700px;
+   }
+
+<ul>
+ <li><a href="home" href= "#index">index.html</a>
+ <li><a href= "unit 1" href= "#unit 1">unit1.html</a>
+ <li><a href= "unit 2" href= "#unit 2">unit2.html</a>
+ <li><a href= "unit 3" href= "#unit 3">unit3.html</a>
+ <li><a href= "outcome 2" href= "#unit 3">outcome2.html</a>
+ <li><a href= "outcome 3" href= "#unit 3">outcome3.html</a>
+ </ul>
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     width: 0%;
+     position: fixed;
+
+ }
+ li a {
+     display: inline;
